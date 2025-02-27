@@ -1,8 +1,23 @@
-# React + Vite
+# Journal-App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Journal-App es una aplicación de notas creada con **React**, **Vite**, y diversas herramientas modernas como **Firebase**, **Cloudinary** y **Google Auth**. Esta aplicación permite a los usuarios escribir, editar y organizar sus notas en un entorno seguro y rápido.
 
-Currently, two official plugins are available:
+### Características principales
+- **Autenticación con Google** 🧑‍💻: Los usuarios pueden iniciar sesión con su cuenta de Google de manera rápida y segura.
+  ![Login](assets/login.png)
+  
+- **Gestión de imágenes** 🖼️: Las imágenes pueden ser cargadas y gestionadas utilizando **Cloudinary** para un almacenamiento eficiente.
+  ![Crear Nota](assets/crear-nota.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Almacenamiento de datos** ☁️: Las notas se almacenan en **Firebase**, lo que asegura que estén disponibles en todo momento y en cualquier dispositivo.
+  ![App Principal](assets/app-principal.png)
+
+- **Rendimiento rápido** ⚡: La aplicación está optimizada para ofrecer una experiencia ágil gracias a **Vite**.
+  ![Crear Cuenta](assets/crear-cuenta.png)
+
+### Tecnologías usadas
+- **React**: Para crear la interfaz de usuario interactiva.
+- **Vite**: Herramienta de desarrollo que permite una configuración rápida y eficiente del entorno.
+- **Firebase**: Para almacenamiento en la nube y autenticación de usuarios.
+- **Cloudinary**: Para la gestión de imágenes.
+- **Google Auth**: Para iniciar sesión mediante cuentas de Google.
