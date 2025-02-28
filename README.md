@@ -10,7 +10,7 @@ Journal-App es una aplicación de notas creada con **React**, **Vite**, y divers
 - **Almacenamiento de datos** ☁️: Las notas se almacenan en **Firebase**, lo que asegura que estén disponibles en todo momento y en cualquier dispositivo.
 ![App Principal](assets/app-principal.png)
 - **Gestión de imágenes** 🖼️: Las imágenes pueden ser cargadas y gestionadas utilizando **Cloudinary** para un almacenamiento eficiente.
-  ![Crear Nota](assets/crear-nota.png)
+  ![Crear Nota](assets/nota-creada.png)
 
 
 ### Tecnologías usadas
