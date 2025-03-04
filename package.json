@@ -37,6 +37,7 @@
     "@vitejs/plugin-react": "^4.3.4",
     "babel-jest": "^29.7.0",
     "cloudinary": "^2.5.1",
+    "dotenv": "^16.4.7",
     "eslint": "^9.19.0",
     "eslint-plugin-jest": "^28.11.0",
     "eslint-plugin-react": "^7.37.4",
