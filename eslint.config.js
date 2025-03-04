@@ -34,6 +34,9 @@ export default [
         { allowConstantExport: true },
       ],
       'react/prop-types': 'off', // Deshabilita la regla de prop-types
+      'jest/no-disabled-tests': 'warn', // Ejemplo de regla Jest
+      'jest/no-focused-tests': 'error', // Ejemplo de regla Jest
+      'jest/no-identical-title': 'error', // Ejemplo de regla Jest
     },
   },
 ]
